@@ -1,0 +1,30 @@
+_repo: Peck-s-Compendium-of-Fun--13-Comprising-the-Choicest-Gems-of-Wit-Humor-Sarcasm-and-Pathos-of-__14815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peck, George W. (George Wilbur)
+    alias: Peck, George Wilbur
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '3383'
+    url: http://www.gutenberg.org/2009/agents/3383
+    wikipedia: http://en.wikipedia.org/wiki/George_Wilbur_Peck
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+title: "Peck's Compendium of Fun\r\nComprising the Choicest Gems of Wit, Humor, Sarcasm\
+  \ and Pathos of America's Favorite Humorist"
+url: http://www.gutenberg.org/ebooks/14815
